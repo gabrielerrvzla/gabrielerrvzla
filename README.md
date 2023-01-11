@@ -1,5 +1,5 @@
-<h1 align="center">hola 👋 soy Gabriel Rueda</h1>
-<h3 align="center">Soy un apasionado desarrollador de software con amplia experiencia en desarrollo backend, tecnología de inteligencia artificial y bases de datos.</h3>
+<h1 align="center">Gabriel Rueda</h1>
+<h3 align="center">Soy un apasionado desarrollador de software con amplia experiencia en desarrollo backend, inteligencia artificial y bases de datos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielerrvzla&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielerrvzla" /> </p>
 
